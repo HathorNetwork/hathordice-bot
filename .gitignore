@@ -1,0 +1,4 @@
+*.swp
+config.js
+dist
+node_modules
